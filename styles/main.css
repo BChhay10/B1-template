@@ -65,6 +65,13 @@ h2{
   border-left: 5px solid #27AE60;
   padding-left: 10px;
 }
+.row{
+  display: flex
+}
+.Ride-open{
+  display: flex;
+}
+
 
 main{
   padding: 1em;
