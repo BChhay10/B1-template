@@ -89,6 +89,9 @@ article, h2{
   -1px 1px 0 #FCFCFC,       
   1px 1px 0 #FCFCFC;
 }
+button {
+  cursor: pointer;
+  }
 
 main{
   padding: 1em;
