@@ -71,7 +71,16 @@ h2{
 .ride-open{
   display: flex;
 }
+.emphasize button {
+  border-left: #27AE60 5px solid;
+}
 
+.emphasize {
+  margin: 0 auto;
+  border-left: transparent 1px solid;
+  text-align: center;
+  box-shadow: 3px 1px 3px #27AE60;
+}
 
 main{
   padding: 1em;
