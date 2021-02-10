@@ -81,6 +81,14 @@ h2{
   text-align: center;
   box-shadow: 3px 1px 3px #27AE60;
 }
+article, h2{
+  text-shadow:        
+  0 0 0 #FCFCFC,       
+  -1px -1px 0  #FCFCFC,         
+  1px -1px 0 #FCFCFC,       
+  -1px 1px 0 #FCFCFC,       
+  1px 1px 0 #FCFCFC;
+}
 
 main{
   padding: 1em;
